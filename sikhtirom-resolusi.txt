@@ -1,0 +1,4 @@
+SIKHTIROM RESOLUSI
+- Belajar Git & Github
+- Membuat platform website
+- Menjadi Develpoment Backend
