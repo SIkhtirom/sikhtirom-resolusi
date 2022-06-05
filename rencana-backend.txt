@@ -2,11 +2,16 @@ RENCANA MENJADI BACKEND
 
 - Exploit & Non-Exploit
   * Agar tidak terjadi exploit oleh orang lain *
+  // Phyton //
 - Security Website
   * Agar tidak terjadi pencurian data *
+  // C++ //
 - System login
   * System login yang sangat simple & susah untuk di bobol *
+  // Pyhton + C++ //
 - Database
   * Membuat databases *
+  // SQL //
 - Visual
   * Mulai merancang *
+  // Laravel //
