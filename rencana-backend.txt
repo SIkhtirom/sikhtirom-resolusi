@@ -12,6 +12,8 @@ RENCANA MENJADI BACKEND
 - Database
   * Membuat databases *
   By : Doe
+  By : Sikhtirom
 - Visual
   * Mulai merancang *
   By : Diva
+  By : Andi
