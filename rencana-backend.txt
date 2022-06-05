@@ -6,5 +6,7 @@ RENCANA MENJADI BACKEND
   * Agar tidak terjadi pencurian data *
 - System login
   * System login yang sangat simple & susah untuk di bobol *
+- Database
+  * Membuat databases *
 - Visual
   * Mulai merancang *
