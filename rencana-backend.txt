@@ -15,3 +15,18 @@ RENCANA MENJADI BACKEND
 - Visual
   * Mulai merancang *
   // Laravel //
+  By : Dono
+- Security Website
+  * Agar tidak terjadi pencurian data *
+  By : Anwar
+- System login
+  * System login yang sangat simple & susah untuk di bobol *
+  By : Kai
+- Database
+  * Membuat databases *
+  By : Doe
+  By : Sikhtirom
+- Visual
+  * Mulai merancang *
+  By : Diva
+  By : Andi
