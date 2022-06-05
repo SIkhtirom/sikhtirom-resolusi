@@ -2,5 +2,5 @@ SIKHTIROM RESOLUSI
 - Belajar Git & Github
 - Membuat platform website
 - Menjadi Develpoment Backend
-- Membuat forum
 - Membuat tim
+- Membuat online shop
