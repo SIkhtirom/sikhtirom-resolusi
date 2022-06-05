@@ -4,19 +4,23 @@ RENCANA MENJADI BACKEND
   * Agar tidak terjadi exploit oleh orang lain *
   // Phyton //
   By : Dono
+  
 - Security Website
   * Agar tidak terjadi pencurian data *
   // C++ //
   By : Anwar
+  
 - System login
   * System login yang sangat simple & susah untuk di bobol *
   // Pyhton + C++ //
   By : Kai
+  
 - Database
   * Membuat databases *
   // SQL //
   By : Doe
   By : Sikhtirom
+  
 - Visual
   * Mulai merancang *
   // Laravel //
