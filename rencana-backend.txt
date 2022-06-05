@@ -2,11 +2,16 @@ RENCANA MENJADI BACKEND
 
 - Exploit & Non-Exploit
   * Agar tidak terjadi exploit oleh orang lain *
+  By : Dono
 - Security Website
   * Agar tidak terjadi pencurian data *
+  By : Anwar
 - System login
   * System login yang sangat simple & susah untuk di bobol *
+  By : Kai
 - Database
   * Membuat databases *
+  By : Doe
 - Visual
   * Mulai merancang *
+  By : Diva
