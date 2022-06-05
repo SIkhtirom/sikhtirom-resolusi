@@ -1,0 +1,10 @@
+RENCANA MENJADI BACKEND
+
+- Exploit & Non-Exploit
+  * Agar tidak terjadi exploit oleh orang lain *
+- Security Website
+  * Agar tidak terjadi pencurian data *
+- System login
+  * System login yang sangat simple & susah untuk di bobol *
+- Visual
+  * Mulai merancang *
